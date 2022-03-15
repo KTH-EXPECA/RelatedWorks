@@ -64,6 +64,7 @@ EdgeNet is based on industry-standard Cloud software, using Docker for container
 
 - [Monitoring an anonymity network: toward the deanonymization of hidden services](https://dfrws.org/presentation/monitoring-an-anonymity-network-toward-the-deanonymization-of-hidden-services)
 at DFRWS APAC 2021
+- [Shared internet-scale measurement platforms](https://hal.archives-ouvertes.fr/hal-03113118)
 
 ## [10. Geni](https://www.geni.net/)
 
